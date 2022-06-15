@@ -1,1 +1,16 @@
-
+<data>
+  <ID>A1</ID>
+  <title>Регистрация нового пользователя на главной странице</title>
+  <project>Обучающий портал</project>
+  <STR>1. Зайти на главную страницу сайта (ссылка_на_сайт) <br /> 2. Нажать кнопку Регистрация </STR>
+  <envir>OS: Windows 10 x64 v21H1 build 19043.1741 <br />Browser: Google Chrome v102.0.5005.63 x64 </envir>
+  <comp>Component: Кнопка Регистрация </comp>
+  <build>Build: 0.3.3</build>
+  <actres>Actual result: Нажатие кнопки Регистрация НЕ перенаправляет на Форму регистрации </actres>
+  <expectres>Expected result: Нажатие кнопки Регистрация перенаправляет на Форму регистрации</expectres>
+  <sev>Severity: Critical</sev>
+  <prior>Priority: High</prior>
+  <stat>Status: Open</stat>
+  <auth>Author: Павел Сков</auth>
+  <att>Attachments: "картинка/gif/видео бага(или ссылка)</att>
+</data>
